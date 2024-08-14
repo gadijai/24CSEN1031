@@ -1,4 +1,4 @@
-__INPUT DEVICES___ 
+__INPUT DEVICES__ 
 Keyboard.
 Mouse.
 Scanner.
