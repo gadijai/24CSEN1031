@@ -1,4 +1,4 @@
-______INPUT DEVICES 
+______INPUT DEVICES___ 
 Keyboard.
 Mouse.
 Scanner.
@@ -7,4 +7,4 @@ Barcode Reader.
 Microphone.
 Touchscreen.
 Joystick.
-OUTPUT DEVICES Monitor/Display, Printer, Speakers, Headphones/Earphones, Projectors, Plotters, Braille Display, Haptic Feedback Device, Digital Signage Display, Touchscreens_____
+__OUTPUT DEVICES__ Monitor/Display, Printer, Speakers, Headphones/Earphones, Projectors, Plotters, Braille Display, Haptic Feedback Device, Digital Signage Display, Touchscreens
